@@ -44,7 +44,7 @@
 <div id="menu">
 	<ul>
         <li><a href="index.html"><h3>Inicio</h3></a></li>
-        <li><a href="Comic.php"><h3>Comics</h3></a></li>
+        <li><a href="Comic.php"><h3>Cs</h3></a></li>
         <li><a href="Consultas.php"><h3>Consultas</h3></a></li>
         <li><a href="Novedades.php"><h3>Novedades</h3></a></li>
         
